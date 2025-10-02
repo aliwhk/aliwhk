@@ -1,0 +1,113 @@
+/*estilo do proj*/
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: helvetica;
+    background-color: rgb(149, 130, 255);
+    color: rgb(255, 255, 255);
+}
+
+header{
+    background-color: white;
+    padding: 20px;
+    color: black;
+}
+main{
+    max-width: 1200px;
+    margin: 48px auto 28px;
+}
+#banner{
+    background-color: rgb(255, 252, 250);
+    margin: 10px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.banner{
+    width: 500;
+}
+#servicos{
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+}
+#servicos ul {
+    padding-left: 20px;
+}
+#servicos ul li{
+    padding-top: 5px;
+}
+#funcionamento{
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+}
+footer{
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+nav{
+    background-color: rgb(236, 236, 236);
+    padding: 20px;
+}
+nav ul li {
+    display: inline;
+    padding: 20px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: rgb(149, 130, 255);
+}
+nav ul li a:hover{
+    color: rgb(0, 0, 129);
+}
+#contato{
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+}
+fieldset{
+    border: 2px dotted rgb(149, 130, 255);
+    border-radius: 20px;
+    padding: 15px;
+}
+input{
+    margin: 10px 0px;
+}
+.text{
+    padding: 10px;
+    border: 1px solid rgb(149, 130, 255);
+    border-radius: 5px;
+}
+.check{
+    padding-left: 10px;
+}
+.button{
+    background-color: rgb(149, 130,255)
+    color rgb(255, 255, 255)
+    padding 10 px
+    border-radius 5px;
+    cursor: pointer;
+    border: none;
+}
+#clientes {
+   background-color: white;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+}
+
+
+
+    
+    
